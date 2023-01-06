@@ -3084,7 +3084,7 @@ textarea.form-control-lg {
 }
 .btn-check:focus + .btn, .btn:focus {
   outline: 0;
-  box-shadow: 0 0 0 0.25rem rgba(41, 55, 240, 0.25);
+  box-shadow: 0 0 0 0.25rem rgba(18, 140, 126, 0.25);
 }
 .btn:disabled, .btn.disabled, fieldset:disabled .btn {
   pointer-events: none;
@@ -3183,13 +3183,13 @@ textarea.form-control-lg {
 
 .btn-info {
   color: #000;
-  background-color: #0dcaf0;
-  border-color: #0dcaf0;
+  background-color: #128C7E;
+  border-color: #128C7E;
 }
 .btn-info:hover {
   color: #000;
-  background-color: #31d2f2;
-  border-color: #25cff2;
+  background-color: #128C7E;
+  border-color: #128C7E;
 }
 .btn-check:focus + .btn-info, .btn-info:focus {
   color: #000;
@@ -11099,7 +11099,7 @@ section {
 section.cta {
   position: relative;
   padding: 15rem 0;
-  background-image: url("../assets/img/banner-tmd.png");
+  background-image: url("../assets/img/banner-iie3.png");
   background-position: center;
   background-size: cover;
 }
