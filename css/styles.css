@@ -105,7 +105,7 @@
     font-size: 30px;
 }
 #clockdiv > div{
-    padding: 10px;
+    padding: 1px;
     border-radius: 3px;
     background: none;
     display: inline-block;
