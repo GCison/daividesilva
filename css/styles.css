@@ -118,7 +118,7 @@
 }
 .smalltext{
     padding-top: 5px;
-    font-size: 1px;
+    font-size: 12px;
 }
 
 /******************/
@@ -7764,11 +7764,11 @@ textarea.form-control-lg {
 }
 
 .rounded-circle {
-  border-radius: 60% !important;
+  border-radius: 70% !important;
 }
 
 .rounded-pill {
-  border-radius: 50rem !important;
+  border-radius: 60rem !important;
 }
 
 .rounded-top {
