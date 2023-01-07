@@ -10,6 +10,9 @@
 
 window.addEventListener('DOMContentLoaded', event => {
 
+    document.getElementsByClassName('office-form-footer-block').style.display="none";
+    document.getElementsByClassName('office-form-theme-footer').style.display="none";
+
     // Activate Bootstrap scrollspy on the main nav element
     const mainNav = document.body.querySelector('#mainNav');
     if (mainNav) {

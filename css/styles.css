@@ -51,6 +51,16 @@
 }
 
 /*********************/
+/* Div Form          */
+.office-form-footer-block {
+  display: none;
+}
+
+.office-form-theme-footer {
+  display: none;
+}
+
+/*********************/
 /*     Statement     */
 /*********************/
 .basic-1 {
